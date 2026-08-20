@@ -6,6 +6,11 @@ Welcome to the repository for my personal developer portfolio! This website serv
 
 *(Add your Vercel deployment link here once deployed, e.g., https://your-portfolio.vercel.app)*
 
+## 🌟 Featured Projects
+
+- **[StudyFlow](https://pruthviraj-patil20.github.io/Study-Planner/)** — Comprehensive Study Planner and Productivity Dashboard built with pure HTML5, CSS3, and Vanilla JavaScript. Features Kanban boards, Pomodoro timer, calendar planner, and local storage persistence. ([GitHub Repo](https://github.com/Pruthviraj-patil20/Study-Planner))
+- **[SKYCAST](https://pruthviraj-patil20.github.io/Weather-App/)** — Real-Time Weather Application & Air Quality Dashboard built with Vanilla JavaScript (ES6 Modules) and CSS3. Features OpenWeatherMap API integration, 5-day forecasts, geolocation, city search, favorites management, and theme toggling. ([GitHub Repo](https://github.com/Pruthviraj-patil20/Weather-App))
+
 ## 🛠️ Built With
 
 This portfolio is built from scratch using modern web technologies without any heavy frameworks, ensuring fast load times and a clean architecture:
