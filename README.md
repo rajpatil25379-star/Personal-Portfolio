@@ -8,6 +8,7 @@ Welcome to the repository for my personal developer portfolio! This website serv
 
 ## 🌟 Featured Projects
 
+- **[EventSphere](https://pruthviraj-patil20.github.io/Event-Management-System/)** — Enterprise-Grade Event Discovery, SaaS Management, and Cryptographic QR Ticketing Platform built with Node.js, Express, MongoDB, Vanilla JS, and Chart.js. Features digital ticket wallet, dynamic QR generation, organizer analytics, and admin moderation. ([GitHub Repo](https://github.com/Pruthviraj-patil20/Event-Management-System))
 - **[StudyFlow](https://pruthviraj-patil20.github.io/Study-Planner/)** — Comprehensive Study Planner and Productivity Dashboard built with pure HTML5, CSS3, and Vanilla JavaScript. Features Kanban boards, Pomodoro timer, calendar planner, and local storage persistence. ([GitHub Repo](https://github.com/Pruthviraj-patil20/Study-Planner))
 - **[SKYCAST](https://pruthviraj-patil20.github.io/Weather-App/)** — Real-Time Weather Application & Air Quality Dashboard built with Vanilla JavaScript (ES6 Modules) and CSS3. Features OpenWeatherMap API integration, 5-day forecasts, geolocation, city search, favorites management, and theme toggling. ([GitHub Repo](https://github.com/Pruthviraj-patil20/Weather-App))
 
